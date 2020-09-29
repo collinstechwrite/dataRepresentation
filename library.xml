@@ -1,28 +1,44 @@
-<?xml version="1.0"?>
+<?xml version = "1.0" encoding = "UTF-8" ?>
+
+<!-- The library has two catalogues , catalogue1 for Technical Books and catalogue2 for Cookery Books , each book listed has isbn, title, author details -->
+
+
 
 <library>
-<Book catalogue="Technical">
-<Book isbn-13="978-1119660767" isbn-10="1119660769">
+<catalogue1 title="Technical">
+
+<Book>
+<isbn13>978-1119660767"</isbn13>
+<isbn10>1119660769</isbn10>
 <Title>Stock Investing For Dummies 6th Edition</Title>
 <Author>Paul Mladjenovic</Author>
 </Book>
 
-<Book catalogue="Technical">
-<Book isbn-13="978-1119363026" isbn-10="1119363020">
+<Book>
+<isbn13>978-1119363026</isbn13>
+<isbn10>1119363020</isbn10>
 <Title>Coding All-in-One For Dummies (For Dummies (Computers)) 1st Edition</Title>
 <Author>Nikhil Abraham</Author>
 </Book>
 
-<Book catalogue="Cookery">
-<Book isbn-13="978-1419747489" isbn-10="1419747487">
+</catalogue1>
+
+<catalogue2 title="Cookery">
+
+<Book>
+<isbn13>978-1419747489</isbn13>
+<isbn10>1419747487</isbn10>
 <Title>Home Style Cookery</Title>
 <Author>Matty Matheson</Author>
 </Book>
 
-<Book catalogue="Cookery">
-<Book isbn-13="978-1455525256" isbn-10="1455525251">
+<Book>
+<isbn13>978-1455525256</isbn13>
+<isbn10>1455525251</isbn10>
 <Title>Gordon Ramsay's Home Cooking: Everything You Need to Know to Make Fabulous Food</Title>
 <Author>Gordon Ramsay</Author>
 </Book>
+
+</catalogue2>
 
 </library>
