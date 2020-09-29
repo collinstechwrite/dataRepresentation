@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+
+<library>
+<Book catalogue="Technical">
+<Book isbn-13="978-1119660767" isbn-10="1119660769">
+<Title>Stock Investing For Dummies 6th Edition</Title>
+<Author>Paul Mladjenovic</Author>
+</Book>
+
+<Book catalogue="Technical">
+<Book isbn-13="978-1119363026" isbn-10="1119363020">
+<Title>Coding All-in-One For Dummies (For Dummies (Computers)) 1st Edition</Title>
+<Author>Nikhil Abraham</Author>
+</Book>
+
+<Book catalogue="Cookery">
+<Book isbn-13="978-1419747489" isbn-10="1419747487">
+<Title>Home Style Cookery</Title>
+<Author>Matty Matheson</Author>
+</Book>
+
+<Book catalogue="Cookery">
+<Book isbn-13="978-1455525256" isbn-10="1455525251">
+<Title>Gordon Ramsay's Home Cooking: Everything You Need to Know to Make Fabulous Food</Title>
+<Author>Gordon Ramsay</Author>
+</Book>
+
+</library>
